@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
             success_wrap.classList.toggle('hide')
             form_input.value = ''
             form_input.classList.remove('is-valid')
+            isEmail = false
         }
     }))
 
