@@ -8,7 +8,7 @@ html, body {
 
 
 @media (max-width: 992px) { 
-    body {background: #fff;}
+    body, html {background: #fff;}
 
     .wrap {
         display: flex;
