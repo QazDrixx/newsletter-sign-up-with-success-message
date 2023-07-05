@@ -32,7 +32,8 @@ html, body {
     .image-wrap {
         border-radius: 0 0 12px 12px;
         width: 100%;
-        height: 25%;
+        height: 500px;
+        /* height: 25%; */
         background: url(../../assets/images/illustration-sign-up-mobile.svg) top  / 100% no-repeat;
     } 
 
