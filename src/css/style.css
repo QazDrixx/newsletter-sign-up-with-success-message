@@ -23,6 +23,7 @@ html, body {
 
     .form-wrap {
     padding: 28px;
+    height: 75%;
     }
 
     .form__header h1 {
